@@ -39,7 +39,7 @@ Studenter får godkjent et eget pensum basert på temaet til bacheloroppgaven.
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas]https://uit.instructure.com/courses/33649){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/33649){:target="blank"}.
 
 
 ## Innlevering og eksamen  
