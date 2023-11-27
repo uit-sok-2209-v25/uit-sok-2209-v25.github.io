@@ -51,4 +51,4 @@ Kurset har tre arbeidskrav som må bestås for å få bacheloroppgaven vurdert. 
 
 Frister for innlevering av arbeidskrav finnes i [kursplanen](kursplan.md){:target="blank"}.
 
-Fullstendig bacheloroppgave leveres i [Wiseflow](https://europe.wiseflow.net/login){:target="blank"}. Frist er 03.06.2023 kl 14.00.
+Fullstendig bacheloroppgave leveres i [Wiseflow](https://europe.wiseflow.net/login){:target="blank"}. Frist er 03.06.2024 kl 14.00.
