@@ -1,33 +1,30 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+- [Kursplan](kursplan.md){:target="blank"}
+- [Timeplan]https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-2209-1#week-48){:target="blank"}
 
 
 ## Kursbeskrivelse 
 
+Kurset tas normalt i 6. semester, og teller 20 studiepoeng.        
 
-Kurset består av ulike interessante tema  
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/aktivt/emne/SOK-2209){:target="blank"}   
+
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+
+- [Mikko Moilanen](https://uit.no/ansatte/person?p_document_id=200602){:target="blank"} (fagansvarlig)
+- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"}
 
 
+ 
 
 ## Administrative spørsmål
 
@@ -36,21 +33,22 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
+Studenter får godkjent et eget pensum basert på temaet til bacheloroppgaven.           
+[Retningslinjer og krav til skriving av bacheloroppgave](/Retningslinjer og krav til skriving av bacheloroppgave.pdf){:target="blank"}.
 
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas]https://uit.instructure.com/courses/33649){:target="blank"}.
 
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har tre arbeidskrav som må bestås for å få bacheloroppgaven vurdert. Arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"}.        
+- Arbeidskrav 1 - Presentasjon av problemstilling
+- Arbeidskrav 2 - Skriftlig prosjektbeskrivelse
+- Arbeidskrav 3 - Midtveisinnlevering og statusrapport
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Frister for innlevering av arbeidskrav finnes i [kursplanen](kursplan.md){:target="blank"}.
 
+Fullstendig bacheloroppgave leveres i [Wiseflow](https://europe.wiseflow.net/login){:target="blank"}. Frist er 03.06.2023 kl 14.00.
