@@ -7,7 +7,7 @@
 Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
 - [Kursplan](kursplan.md){:target="blank"}
-- [Timeplan]https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-2209-1#week-48){:target="blank"}
+- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-2209-1#week-48){:target="blank"}
 
 
 ## Kursbeskrivelse 
