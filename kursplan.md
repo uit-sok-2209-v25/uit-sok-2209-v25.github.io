@@ -6,7 +6,7 @@
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
 |10.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer_og_krav_til_skriving_av_bacheloroppgave_jan24.pdf){:target="blank"}  <br> [Forelesningsnotater](/forelesning_1_self_contained.html) <br> [En tidligere oppgave](/SOK-2209-Bacheloroppgave.pdf)  |
-|17.01 | 2 | Forskningsverksted - Årets tema | [Norsk medborgerpanel runde 26, 2023](https://surveybanken.sikt.no/no/study/547be65b-fb02-480a-9192-6781233cdd17/undefined?type=studyMetadata&datafile=5343ae2b-5f89-42d2-83c0-ec1bf7a97651/8&elements=[]){:target="blank"} <br> Bestilling av data gjennom prosjekt "Bacheloroppgave i samfunnsøkonomi med datavitenskap UiT V24"   |
+|17.01 | 2 | Forskningsverksted - Årets tema | [Norsk medborgerpanel runde 26, 2023](https://surveybanken.sikt.no/no/study/547be65b-fb02-480a-9192-6781233cdd17/undefined?type=studyMetadata&datafile=5343ae2b-5f89-42d2-83c0-ec1bf7a97651/8&elements=[]){:target="blank"} <br> Bestilling av data gjennom prosjekt "Bacheloroppgave i samfunnsøkonomi med datavitenskap UiT V24" <br> [Forelesningsnotater](/forelesning2-speaker.html)|
 |24.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**02.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"} innen kl 16.00 |
 |07.02 | 4 | Samuel Arulanandam, UB |Litteratursøk, referansehåndtering    |
