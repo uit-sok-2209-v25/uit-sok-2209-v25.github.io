@@ -10,7 +10,7 @@
 |24.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**02.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"} innen kl 16.00 |
 |05.02| 4 | Statistikk - noen tips til estimering         |    |
-|07.02 | 5 | Samuel Arulanandam, UB |Litteratursøk, referansehåndtering    |
+|07.02 | 5 | Samuel Arulanandam, UB |Litteratursøk, akademisk redelighet    |
 |21.02 | 6 | Skriveverksted - Quarto| [Quarto eksempel](/forelesninger/bruk_quarto.qmd) <br> [eksempel.bib](/forelesninger/eksempel.bib) <br> [norsk.yml](/forelesninger/norsk.yml) <br> [apa.csl](/forelesninger/apa.csl)  |
 |**26.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"} innen kl 16.00  |
 |03.04| 7 | Ekstra - etter behov         |    |
