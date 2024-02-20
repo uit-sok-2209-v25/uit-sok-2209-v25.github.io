@@ -12,7 +12,7 @@
 |05.02| 4 | Statistikk - noen tips til estimering         |  [Statistikk - noen tips til estimering](/estimering_sosial_tillit_studenter.html)  |
 |07.02 | 5 | Litteratursøk, akademisk redelighet | Samuel Arulanandam, UB. [Notater](/SOK-2209 Bacheloroppgave_UB.pdf)    |
 |16.02 | 6 | Verksted om litteratursøk |Samuel Arulanandam, UB, [Notater](/samuel_lit.pdf) |
-|21.02 | 7 | Skriveverksted - Quarto| [Quarto eksempel](/forelesninger/bruk_quarto.qmd) <br> [eksempel.bib](/forelesninger/eksempel.bib) <br> [norsk.yml](/forelesninger/norsk.yml) <br> [apa.csl](/forelesninger/apa.csl) <br > [Assistentprompten](/assistentprompten.pdf) <br> [Konvertering av .json til .txt](/import_json.py) |
+|21.02 | 7 | Skriveverksted - Quarto| [Quarto eksempel](/forelesninger/bruk_quarto.qmd) <br> [eksempel.bib](/forelesninger/eksempel.bib) <br> [norsk.yml](/forelesninger/norsk.yml) <br> [apa.csl](/forelesninger/apa.csl) <br > [Assistentprompten](/assistentprompten.pdf) <br> [Konvertering av .json til .txt](/import_%20json.py) |
 |**26.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"} innen kl 16.00  |
 |03.04| 8 | Ekstra - etter behov         |    |
 |**15.04**| Frist| Midtveisinnlevering og statusrapport | [Canvas](https://uit.instructure.com/courses/33649/assignments){:target="blank"} innen kl 16.00  |
