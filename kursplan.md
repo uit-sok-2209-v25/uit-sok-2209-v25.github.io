@@ -8,12 +8,12 @@
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
 |07.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer_og_krav_til_skriving_av_bacheloroppgave_jan24.pdf){:target="blank"}  <br> [Forelesningsnotater](/forelesning_1_self_contained.html) <br> [En tidligere oppgave](/SOK-2209-Bacheloroppgave.pdf)  |
-|14.01 | 2 | Forskningsverksted - Årets tema | [Norsk medborgerpanel runde 26, 2023](https://surveybanken.sikt.no/no/study/547be65b-fb02-480a-9192-6781233cdd17/undefined?type=studyMetadata&datafile=5343ae2b-5f89-42d2-83c0-ec1bf7a97651/8&elements=[]){:target="blank"} <br> Bestilling av data gjennom prosjekt "Bacheloroppgave i samfunnsøkonomi med datavitenskap UiT V24" <br> [Forelesningsnotater](/forelesning2-speaker.html)|
+|14.01 | 2 | Forskningsverksted - Årets tema |  [Forelesningsnotater](/forelesning2-speaker.html)|
 |21.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00 |
 |28.01| 4 | Statistikk - noen tips til estimering         |  [Statistikk - noen tips til estimering](/estimering_sosial_tillit_studenter.html)  |
-|30.01 | 5 | Litteratursøk, akademisk redelighet | Samuel Arulanandam, UB. [Notater](/SOK-2209 Bacheloroppgave_UB.pdf)    |
-|04.02 | 6 | Verksted om litteratursøk |Samuel Arulanandam, UB, [Notater](/samuel_lit.pdf) |
+|30.01 | 5 | Litteratursøk, akademisk redelighet | UB  |
+|04.02 | 6 | Verksted om litteratursøk |UB |
 |11.02 | 7 | Skriveverksted <br> 1. Quarto <br> 2. Veiledningsassistenten| [Quarto eksempel](/bruk_quarto_2209_V24.qmd) <br> [eksempel.bib](/eksempel.bib) <br> [norsk.yml](/norsk.yml) <br> [apa.csl](/apa.csl) <br> [bilde fra jupyter](/Screenshot.png) <br> [AI som assistent (slides)](/veiledningsprompt.html) <br > [Assistentprompten](/assistentprompten.pdf) <br> [Konvertering av .json til .txt](/import_%20json.py) |
 |18.02| 8 | Ekstra - etter behov         |    |
 |**26.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00  |
