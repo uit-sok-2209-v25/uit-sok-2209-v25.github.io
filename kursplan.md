@@ -12,8 +12,8 @@
 |21.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00 |
 |28.01| 4 | Statistikk - noen tips til estimering         |  [Statistikk - noen tips til estimering](/estimering_sosial_tillit_studenter.html)  |
-|30.01 | 5 | Litteratursøk, akademisk redelighet | UB  |
-|04.02 | 6 | Verksted om litteratursøk |UB |
+|30.01 | 5 | Litteratursøk, akademisk redelighet | Anna Karpova, UB  |
+|04.02 | 6 | Verksted om litteratursøk |Anna Karpova, UB |
 |11.02 | 7 | Skriveverksted <br> 1. Quarto <br> 2. Veiledningsassistenten| [Quarto eksempel](/bruk_quarto_2209_V24.qmd) <br> [eksempel.bib](/eksempel.bib) <br> [norsk.yml](/norsk.yml) <br> [apa.csl](/apa.csl) <br> [bilde fra jupyter](/Screenshot.png) <br> [AI som assistent (slides)](/veiledningsprompt.html) <br > [Assistentprompten](/assistentprompten.pdf) <br> [Konvertering av .json til .txt](/import_%20json.py) |
 |18.02| 8 | Ekstra - etter behov         |    |
 |**26.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00  |
