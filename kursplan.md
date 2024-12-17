@@ -7,11 +7,11 @@
      
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
-|07.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer_og_krav_til_skriving_av_bacheloroppgave_jan24.pdf){:target="blank"}  <br> [Forelesningsnotater](/forelesning_1_self_contained.html) <br> [En tidligere oppgave](/SOK-2209-Bacheloroppgave.pdf)  |
+|07.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer_og_krav_til_skriving_av_bacheloroppgave_jan24.pdf){:target="blank"}  <br> [Forelesningsnotater](/forelesning_1_self_contained.html) <br> [En tidligere oppgave (2022)](/SOK-2209-Bacheloroppgave.pdf) <br> [En tidligere oppgave (2023)](/bacheloroppgave_24.ådf) |
 |14.01 | 2 | Forskningsverksted - Årets tema |  |
 |21.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00 |
-|28.01| 4 | Statistikk - noen tips til estimering         |  [Statistikk - noen tips til estimering](/estimering_sosial_tillit_studenter.html)  |
+|28.01| 4 | Statistikk - noen tips til estimering         |    |
 |30.01 | 5 | Litteratursøk, akademisk redelighet | Anna Karpova, UB  |
 |04.02 | 6 | Verksted om litteratursøk |Anna Karpova, UB |
 |11.02 | 7 | Skriveverksted <br> 1. Quarto <br> 2. Veiledningsassistenten| [Quarto eksempel](/bruk_quarto_2209_V24.qmd) <br> [eksempel.bib](/eksempel.bib) <br> [norsk.yml](/norsk.yml) <br> [apa.csl](/apa.csl) <br> [bilde fra jupyter](/Screenshot.png) <br> [AI som assistent (slides)](/veiledningsprompt.html) <br > [Assistentprompten](/assistentprompten.pdf) <br> [Konvertering av .json til .txt](/import_%20json.py) |
