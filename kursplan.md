@@ -2,7 +2,6 @@
 
 ##  Kursplan
 
-[Lenke til repo på GitHub](https://github.com/uit-sok-2209-v25/uit-sok-2209-v25.github.io){:target="blank"}
 
      
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
