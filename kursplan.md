@@ -14,7 +14,6 @@
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00 |
 |04.02| 6 | Statistikk - noen tips til estimering         | [Notater (qmd)](/estimering_fiktiv_data.qmd) <br> [Notater (HTML)](/estimering_fiktiv_data.html)   |
 |11.02 | 7 | Verksted om litteratursøk |Anna Karpova, UB |
-|18.02| 8 | Ekstra - etter behov         |    |
 |**26.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00  |
 |**11.04**| Frist| Midtveisinnlevering og statusrapport | [Canvas](https://uit.instructure.com/courses/36825/assignments){:target="blank"} innen kl 16.00  |
 |**02.06** | Frist | Innlevering av bacheloroppgaven   | [Wiseflow](https://europe.wiseflow.net/login){:target="blank"} innen kl 14.00  |
